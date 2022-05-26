@@ -1,3 +1,16 @@
+.active-car {
+  margin-top: 20px;
+  background: #4e9982;
+  width: 10px;
+  height: 10px;
+  margin-top: 35px;
+  margin-left: 75px;
+  position: absolute;
+  border-radius: 10px;
+  z-index: 1000;
+  color: #4e9982 !important;
+}
+
 /* SECTION CAR  */
 
 .text-car-s1 {
@@ -31,14 +44,14 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 27px;
-  color: #0c145a;
+  color: #4e9982;
   margin-top: 20px;
 }
 .section-head-car > h4 {
   font-weight: 600;
   font-size: 32px;
   line-height: 48px;
-  color: #0c145a;
+  color: #343434;
 }
 .section-head-car > span {
   font-weight: 400;
@@ -92,14 +105,14 @@
   font-weight: 600;
   font-size: 24px;
   line-height: 36px;
-  color: #0c145a;
+  color: #4e9982;
 }
 
 .idr-price {
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
-  color: #0c145a;
+  color: #4e9982;
 }
 
 .day {
@@ -110,7 +123,7 @@
 }
 
 .btn-book {
-  background: #0c145a;
+  background: #4e9982;
   border-radius: 15px;
   font-weight: 600;
   font-size: 20px;
@@ -146,7 +159,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  color: #0c145a;
+  color: #4e9982;
 }
 
 .time-travel {
@@ -194,14 +207,14 @@
   font-weight: 600;
   font-size: 32px;
   line-height: 48px;
-  color: #ffffff;
+  color: #343434;
 }
 
 .before-footer-text > p {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #ffffff;
+  color: #343434;
 }
 
 .before-footer-btn {
@@ -211,14 +224,15 @@
 }
 
 .before-footer-btn > button {
-  background: #ffffff;
+  background: #4e9982;
   border-radius: 100px;
   width: 297px;
   height: 59px;
   font-weight: 600;
   font-size: 18px;
   line-height: 27px;
-  color: #0c145a;
+  color: #ffff;
+  border: none;
 }
 
 /* BEFORE FOOTER END */
